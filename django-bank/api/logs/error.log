@@ -1,0 +1,2 @@
+2025-09-14 06:15:25.6428 | ERROR    | core_apps.user_auth.views:get:14 - This is an error message
+2025-09-14 06:15:25.6429 | CRITICAL | core_apps.user_auth.views:get:15 - This is a critical message
