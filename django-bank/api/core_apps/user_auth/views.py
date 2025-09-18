@@ -1,7 +1,3 @@
-# from django.shortcuts import render #noqa
-
-# # Create your views here.
-
 from typing import Any, Optional
 from django.conf import settings
 from django.contrib.auth import get_user_model

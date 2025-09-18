@@ -1,8 +1,3 @@
-# from django.contrib import admin #noqa
-
-# # Register your models here.
-
-
 from django.contrib import admin
 from cloudinary.forms import CloudinaryFileField
 from django import forms

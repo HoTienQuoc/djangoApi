@@ -1,7 +1,3 @@
-# from django.db import models #noqa
-
-# # Create your models here.
-
 from typing import Any
 
 from cloudinary.models import CloudinaryField

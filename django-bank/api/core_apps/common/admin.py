@@ -1,7 +1,3 @@
-# from django.contrib import admin #noqa
-
-# # Register your models here.
-
 from django.contrib import admin
 from typing import Any
 from django.contrib.contenttypes.admin import GenericTabularInline

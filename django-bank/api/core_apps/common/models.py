@@ -1,7 +1,3 @@
-# from django.db import models #noqa
-
-# # Create your models here.
-
 import uuid
 from typing import Any, Optional
 from django.contrib.auth import get_user_model

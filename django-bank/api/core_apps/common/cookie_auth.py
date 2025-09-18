@@ -1,7 +1,3 @@
-# from django.test import TestCase
-
-# # Create your tests here.
-
 from typing import Optional, Tuple
 
 from django.conf import settings
